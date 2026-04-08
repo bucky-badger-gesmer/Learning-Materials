@@ -46,8 +46,8 @@
 
 | Chapter | Title | Status |
 |:---:|-------|:---:|
-| 16 | Inference for a Single Proportion | |
-| 17 | Inference for Comparing Two Proportions | |
+| 16 | [Inference for a Single Proportion](Chapter%2016:%20Inference%20for%20a%20single%20proportion.md) | ✅ |
+| 17 | [Inference for Comparing Two Proportions](Chapter%2017:%20Inference%20for%20comparing%20two%20proportions.md) | ✅ |
 | 18 | Inference for Two-Way Tables | |
 | 19 | Inference for a Single Mean | |
 | 20 | Inference for Comparing Two Independent Means | |
@@ -68,4 +68,4 @@
 
 ## Progress
 
-**10 of 27 chapters completed** (37%)
+**12 of 27 chapters completed** (44%)

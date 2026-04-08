@@ -12,7 +12,7 @@ Study notes and summaries from various data science and statistics textbooks.
 
 | Book | Completed | Total | Progress |
 |------|:---------:|:-----:|:--------:|
-| [Introduction to Modern Statistics (2e)](Introduction%20to%20Modern%20Statistics%20(2e)/README.md) | 10 | 27 | 37% |
+| [Introduction to Modern Statistics (2e)](Introduction%20to%20Modern%20Statistics%20(2e)/README.md) | 12 | 27 | 44% |
 | [Python for Data Analysis, 3E](Python%20for%20Data%20Analysis%2C%203E/README.md) | 6 | TBD | — |
 | [seaborn](seaborn/) | 1 | TBD | — |
 
@@ -29,6 +29,8 @@ Study notes and summaries from various data science and statistics textbooks.
 - [Chapter 12: Confidence Intervals with Bootstrapping](Introduction%20to%20Modern%20Statistics%20(2e)/Chapter%2012:%20Confidence%20intervals%20with%20bootstrapping.md)
 - [Chapter 13: Inference with Mathematical Models](Introduction%20to%20Modern%20Statistics%20(2e)/Chapter%2013:%20Inference%20with%20mathematical%20models.md)
 - [Chapter 14: Decision Errors](Introduction%20to%20Modern%20Statistics%20(2e)/Chapter%2014:%20Decision%20Errors.md)
+- [Chapter 16: Inference for a Single Proportion](Introduction%20to%20Modern%20Statistics%20(2e)/Chapter%2016:%20Inference%20for%20a%20single%20proportion.md)
+- [Chapter 17: Inference for Comparing Two Proportions](Introduction%20to%20Modern%20Statistics%20(2e)/Chapter%2017:%20Inference%20for%20comparing%20two%20proportions.md)
 
 ### Python for Data Analysis, 3E
 - [Chapter 5: Getting Started with pandas](Python%20for%20Data%20Analysis%2C%203E/Chapter%205:%20Getting%20Started%20with%20pandas.md)
