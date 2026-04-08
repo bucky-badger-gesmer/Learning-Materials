@@ -12,6 +12,7 @@
 - [What are the Types of Missing Data in Machine Learning | Explained with Examples](https://www.youtube.com/watch?v=U1b1JF3hA7Y)
 - [Imputation Methods for Missing Data](https://www.youtube.com/watch?v=fYhr8eF1ubo)
 - [But what is the Central Limit Theorem?](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
+- [Hypothesis Testing With Two Proportions](https://www.youtube.com/watch?v=pCbNUnZ98oE)
 
 ## Other Useful Resources:
 - [The Permutation Test: A Visual Explanation of Statistical Testing](https://www.jwilber.me/permutationtest/)
